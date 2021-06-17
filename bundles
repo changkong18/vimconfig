@@ -1,0 +1,15 @@
+AutoCpp
+Command-T
+Cpp11-Syntax-Support
+L9
+Vundle.vim
+YouCompleteMe
+calendar-vim
+indentLine
+nerdtree
+sparkup
+taglist.vim
+vim-fugitive
+vim-go
+vim-instant-markdown
+winmanager
